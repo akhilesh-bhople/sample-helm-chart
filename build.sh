@@ -1,2 +1,2 @@
 #!/bin/bash
-docker build . -t apache-image:latest 
+docker build . -t apache-docker-image:latest 
